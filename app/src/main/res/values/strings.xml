@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">log</string>
+    <string name="FABRIC_API_KEY">e284bc3b1c13f689c5bd18d543ba5527cf76f197</string>
+
+    <string name="login_error_message">Could_not_login</string>
+</resources>
